@@ -1,3 +1,3 @@
-| GitHub User | Email | LinkedIn |
+| GitHub User | Email |
 | :--- | :--- | :--- |
 | @mpmorematias | mpmorematias@cegid.com |
